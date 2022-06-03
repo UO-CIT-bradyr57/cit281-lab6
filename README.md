@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Lab 6
 
-You can use the [editor on GitHub](https://github.com/UO-CIT-bradyr57/cit281-lab6/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Purpose:
+The purpose of this lab was to create a class with properties as they relate to books. Given this class, I could add and delete the books from an array with a delete book method. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Technologies Learned:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- GitHub
+- classes
+  - delete method
 ```
+## What I learned:
+I learned how to create different classes with properties. Building off of the classes, I was able to use different methods to manipulate properties in the array. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Sample Code from Project
 
-### Jekyll Themes
+Below is some sample code from the project, that highlights the main points and functions associated with it. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UO-CIT-bradyr57/cit281-lab6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
